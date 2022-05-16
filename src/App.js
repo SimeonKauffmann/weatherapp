@@ -44,7 +44,7 @@ function App() {
           <br />
           {weather.description}
           <br />
-          {weather.temp}
+          {weather.temp + "°C"}
           <br />
         </div>
       )}
